@@ -1,2 +1,3 @@
-# informatics
-inf repo
+Носоченко АП
+
+K3140
